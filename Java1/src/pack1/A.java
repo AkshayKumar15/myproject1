@@ -2,7 +2,7 @@ package pack1;
 
 public class A 			// class
 {
-
+// This is for Feb Batch
 	int a;		// globle variable
 	float b;		// globle variable
 	double c;		// globle variable
